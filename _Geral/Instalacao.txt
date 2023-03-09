@@ -1,0 +1,4 @@
+Visual Studio 2022
+MySql 8.0.31
+Postman
+SDK .NET 6.0.402
